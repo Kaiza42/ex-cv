@@ -1,0 +1,98 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+width: 60%;
+margin-left: 20%;
+
+
+;
+}
+h1 {
+    position: relative;
+    margin-top: 5%;
+    background-color:rgb(168, 199, 250);
+    text-align: center;
+    padding-top: 20px;
+    height: 60px;
+    border-top: solid 1px gray;
+}
+
+.main {
+ position: absolute;
+ background-color: rgb(194, 231, 255);
+ width: 60%;
+ border: 2px solid black;
+ height: 130%;
+
+}
+
+#mail {
+    display: flex;
+    align-items: flex-start;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.imageColonne {
+    padding-right: 5px;
+}
+.adresse {
+    display: flex;
+    align-items: flex-start;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.informatique {
+    padding-top: 40px;
+    padding-left: 20px;
+    width: 20px;
+ }
+
+ .UntextInformatique {
+    padding-top: 30px;
+    width: 20px;
+
+ }
+ .deuxTextInformatique {
+    padding-top: 10px;
+    margin-right: 100px;
+    width: 80px;
+ }
+ .atout {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 50px;
+ }
+ h6 {
+    width: 50%;
+ }
+ #test {
+   float: inline-end;
+    border-left: 0.4px solid black;
+    background-color: whitesmoke;
+    width: 70%;
+    margin-left: 20%;
+    height:88.2%;
+ }
+
+ h3 {
+    width: 20px;
+ }
+
+ .Profil {
+    margin-left: 10%;
+ }
+    
+.titrePrincipal {
+    padding-top: 30px;
+    font-size: 30px;
+
+}
+.textPrincipal {
+    padding-top: 30px;
+    padding-right: 180px;
+    
+}
